@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "divisible-between-7-and-11"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random-number", "random-number\random-number.csproj", "{E13B8EFF-6847-4D77-8C2D-8504D035BB0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first-five-pair-numbers", "first-five-pair-numbers\first-five-pair-numbers.csproj", "{F27FB69B-2D5F-455A-92FB-9AE0408CCE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passwordValidate", "passwordValidate\passwordValidate.csproj", "{CFFE2B3E-7454-4B4D-A266-A2BDDE354DDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{E13B8EFF-6847-4D77-8C2D-8504D035BB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E13B8EFF-6847-4D77-8C2D-8504D035BB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E13B8EFF-6847-4D77-8C2D-8504D035BB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27FB69B-2D5F-455A-92FB-9AE0408CCE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27FB69B-2D5F-455A-92FB-9AE0408CCE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27FB69B-2D5F-455A-92FB-9AE0408CCE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27FB69B-2D5F-455A-92FB-9AE0408CCE86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFE2B3E-7454-4B4D-A266-A2BDDE354DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFE2B3E-7454-4B4D-A266-A2BDDE354DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFE2B3E-7454-4B4D-A266-A2BDDE354DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFE2B3E-7454-4B4D-A266-A2BDDE354DDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
