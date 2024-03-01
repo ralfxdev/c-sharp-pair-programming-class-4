@@ -1,6 +1,6 @@
 ﻿int n = 0;
 Random random = new Random();
-int randomNumber = random.Next(1, 100);
+int randomNumber = random.Next(1, 101);
 
 do
 {
